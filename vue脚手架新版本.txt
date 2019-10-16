@@ -1,0 +1,4 @@
+#### 1.$npm uninstall vue-cli -g      //卸载vue-cli旧版本
+
+
+#### 2.$npm install -g @vue/cli      //安装新版本
